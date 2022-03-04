@@ -3,6 +3,9 @@
         padding: 0;
         list-style: none;
       }
+.sidebar{
+ display:none
+}
       
       .post-body ul li {
          list-style: none!important; 
