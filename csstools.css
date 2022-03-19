@@ -21,6 +21,18 @@
       .post-share{
         display:none!important;
       }
+    
+    .card .sci li button{
+     padding: 8px 20px;
+    background-color: #FF9245;
+    border: 0;
+    outline: 0;
+    border-radius: 20px;
+    text-transform: capitalize;
+    color: #fff;
+    font-weight: 600;
+}
+  
     .bg-secondary{background: rgb(17,203,239);
     background: linear-gradient(102deg, rgba(17,203,239,1) 0%, rgba(17,118,239,1) 100%);position: relative;color: #fff;}
     .bg-secondary-row-tl,.container-kimidev{max-width:1100px;margin: 0 auto;}
