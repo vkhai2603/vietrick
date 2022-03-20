@@ -2,7 +2,7 @@ function preloadFunc()
 {
 var ip = userip;
 var bannedips=[
- "162.158.179.239", "27.70.213.222", 
+ "162.158.179.239",
 ]
 var handleips=bannedips.join("|")
 handleips=new RegExp(handleips, "i")
